@@ -1,0 +1,93 @@
+
+/*img{
+
+    width: 10%;
+    height: 10%;
+
+  }
+*/
+
+body {
+
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/849/553/original/modern-gold-background-free-vector.jpg");
+    width: 1000px;
+
+}
+
+#top-container {
+    
+    position: relative;
+    right: 1100px;
+    bottom: 400px;
+    text-align: center;
+    border: solid red 2px;
+    display: inline-block;
+
+
+}
+
+#middle-container {
+
+    position: fixed;
+    left: 400px;
+top: 75px;
+}
+
+
+.img1 {
+
+    border-radius: 50%;
+    position: relative;
+    left: 550px;
+    height: 300px;
+    width: 300px;
+    top: 150px;
+}
+
+
+.img2 {
+
+    border-radius: 50%;
+    position: relative;
+    left: 600px;
+    height: 250px;
+    width: 250px;
+    top: 250px;
+}
+
+.ab1 {
+
+    position: relative;
+    top: 150px;
+    left: 150px;
+    color: teal;
+
+}
+
+.back {
+
+    position: relative;
+    bottom: 380px;
+    left: 300px;
+
+}
+
+.follow {
+
+    position: fixed;
+    border: solid white 5px;
+    width: 1410px;
+    height: 100px;
+    top: 10px;
+    
+}
+
+.signature{
+
+    position: fixed;
+    width: 30%;
+    height: 20%;
+    top: 3px;
+    right: 1150px;
+
+}
